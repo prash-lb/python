@@ -1,5 +1,5 @@
 ## Project made in python
 
--Snake game
+- Snake game
 
--Isola game
+- Isola game
